@@ -1,0 +1,5 @@
+typer==0.25.1
+fastapi==0.136.1
+chromadb==1.5.8
+
+tree-sitter==0.25.2
